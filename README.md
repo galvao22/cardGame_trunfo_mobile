@@ -42,7 +42,7 @@
 
 ## Como rodar este projeto
 
-### OBS: é preciso o repositório do Backend
+### OBS: é preciso o repositório do Backend que se encontra no meu [githib](https://github.com/galvao22)
 
 ```bash
 # Clone este repositorio
@@ -73,6 +73,7 @@ Ao final de 5 partidas, se encerra o jogo e o resultado final é mostrado.
 ## Outras informações
 
 - OBS: para o aplicativo funcionar, é preciso ter o backend que se encontra no repositorio do meu [github](https://github.com/galvao22).
+- Lembre-se de alterar o caminho da api de acesso ao backend.
 
 - Autor: Vinicius Araujo
 - [Linkedin](https://www.linkedin.com/in/vinicius-araujo-galvao-de-sousa-9b8a48125/)
