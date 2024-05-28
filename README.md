@@ -42,7 +42,7 @@
 
 ## Como rodar este projeto
 
-### OBS: é preciso o repositório do Backend que se encontra no meu [githib](https://github.com/galvao22)
+### OBS: é preciso o repositório do Backend que se encontra no meu [github](https://github.com/galvao22)
 
 ```bash
 # Clone este repositorio
