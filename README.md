@@ -19,10 +19,10 @@
 ## Layout Mobile
 
 <div widht=>
-<img src="../trunfo/src/assets/tela1.jpeg" width="200px" alt="Tela Login">
-<img src="../trunfo/src/assets/tela2.jpeg" width="200px" alt="Tela Dashboard">
-<img src="../trunfo/src/assets/tela3.jpeg" width="200px" alt="Tela Game">
-<img src="../trunfo/src/assets/tela4.jpeg" width="200px" alt="Tela Dashboard com Resultado">
+<img src="../trunfo/assets/tela1.jpeg" width="200px" alt="Tela Login">
+<img src="../trunfo/assets/tela2.jpeg" width="200px" alt="Tela Dashboard">
+<img src="../trunfo/assets/tela3.jpeg" width="200px" alt="Tela Game">
+<img src="../trunfo/assets/tela4.jpeg" width="200px" alt="Tela Dashboard com Resultado">
 </div>
 
 ## Tecnologias Utilizadas
@@ -46,7 +46,7 @@
 
 ```bash
 # Clone este repositorio
-$ git clone linkrepo
+$ git clone https://github.com/galvao22/cardGame_trunfo_mobile
 
 # Acesse a pasta do projeto no seu terminal
 $ cd Trunfo
