@@ -1,7 +1,7 @@
 # Projeto CardGame - Ethereal Duel
 <div align="center">
 
-![EtheraelDuel](../trunfo/src/assets/logo.png)
+![EtheraelDuel](assets/logo.png)
 
 ### Projeto de um básico card game feito por mim! - Vinicius Araujo
 "Imagens by IA"
@@ -19,10 +19,10 @@
 ## Layout Mobile
 
 <div widht=>
-<img src="../trunfo/assets/tela1.jpeg" width="200px" alt="Tela Login">
-<img src="../trunfo/assets/tela2.jpeg" width="200px" alt="Tela Dashboard">
-<img src="../trunfo/assets/tela3.jpeg" width="200px" alt="Tela Game">
-<img src="../trunfo/assets/tela4.jpeg" width="200px" alt="Tela Dashboard com Resultado">
+<img src="assets/tela1.jpeg" width="200px" alt="Tela Login">
+<img src="assets/tela2.jpeg" width="200px" alt="Tela Dashboard">
+<img src="assets/tela3.jpeg" width="200px" alt="Tela Game">
+<img src="assets/tela4.jpeg" width="200px" alt="Tela Dashboard com Resultado">
 </div>
 
 ## Tecnologias Utilizadas
