@@ -42,7 +42,7 @@
 
 ## Como rodar este projeto
 
-### OBS: é preciso o repositório do Backend que se encontra no meu [github](https://github.com/galvao22/cardGame_trunfo_backend)
+### OBS: é preciso o repositório do Backend que se encontra no meu [github](https://github.com/galvao22/cardGame_trunfo_backend.git)
 
 ```bash
 # Clone este repositorio
@@ -72,7 +72,7 @@ Ao final de 5 partidas, se encerra o jogo e o resultado final é mostrado.
 
 ## Outras informações
 
-- OBS: para o aplicativo funcionar, é preciso ter o backend que se encontra no repositorio do meu [github](https://github.com/galvao22/cardGame_trunfo_backend).
+- OBS: para o aplicativo funcionar, é preciso ter o backend que se encontra no repositorio do meu [github](https://github.com/galvao22/cardGame_trunfo_backend.git).
 - Lembre-se de alterar o caminho da api de acesso ao backend.
 
 - Autor: Vinicius Araujo
