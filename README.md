@@ -46,7 +46,7 @@
 
 ```bash
 # Clone este repositorio
-$ git clone https://github.com/galvao22/cardGame_trunfo_mobile
+$ git clone https://github.com/galvao22/cardGame_trunfo_mobile.git
 
 # Acesse a pasta do projeto no seu terminal
 $ cd Trunfo
